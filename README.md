@@ -4,13 +4,14 @@
 <br><br>
 ## Below follows the list of my ongoing animes
 <ol>
-  <li><a href = "https://myanimelist.net/anime/34881/Aho_Girl">Aho Girl</a></li>
-  <li><a href = "https://myanimelist.net/anime/34881/Aho_Girl">Aho Girl</a></li>
-  <li><a href = "https://myanimelist.net/anime/34881/Aho_Girl">Aho Girl</a></li>
-  <li><a href = "https://myanimelist.net/anime/34881/Aho_Girl">Aho Girl</a></li>
-  <li><a href = "https://myanimelist.net/anime/34881/Aho_Girl">Aho Girl</a></li>
-  <li><a href = "https://myanimelist.net/anime/34881/Aho_Girl">Aho Girl</a></li>
+  <li><a href = "https://myanimelist.net/anime/34881/Aho_Girl">Mob Psycho 100 II</a></li>
+  <li><a href = "https://myanimelist.net/anime/34881/Aho_Girl">Dororo</a></li>
+  <li><a href = "https://myanimelist.net/anime/34881/Aho_Girl">Yakusoku no Neverland</a></li>
+  <li><a href = "https://myanimelist.net/anime/34881/Aho_Girl">Tate no Yuusha no Nariagari</a></li>
+  <li><a href = "https://myanimelist.net/anime/34881/Aho_Girl">Kakegurui××</a></li>
+  <li><a href = "https://myanimelist.net/anime/34881/Aho_Girl">Date A Live Ⅲ</a></li>
 </ol>
+
 
 ## Below follows the list of my completed animes
 <ol>
