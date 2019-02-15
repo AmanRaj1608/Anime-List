@@ -16,6 +16,7 @@
 ## Below follows the list of my completed animes
 <ol>
   <li><a href = "https://myanimelist.net/anime/34881/Aho_Girl">Aho Girl</a></li>
+  <li><a href = "https://myanimelist.net/anime/34881/Aho_Girl">Ao Haru Ride</a></li>
   <li><a href = "https://myanimelist.net/anime/34881/Aho_Girl">Baka to Test to Shoukanjuu</a></li>
   <li><a href = "https://myanimelist.net/anime/34881/Aho_Girl">Monogatari series</a></li>
   <li><a href = "https://myanimelist.net/anime/34881/Aho_Girl">Barakamon</a></li>
@@ -35,11 +36,13 @@
   <li><a href = "https://myanimelist.net/anime/34881/Aho_Girl">Denpa Onna to Seishun Otoko</a></li>
   <li><a href = "https://myanimelist.net/anime/34881/Aho_Girl">Dragon Ball</a></li>
   <li><a href = "https://myanimelist.net/anime/34881/Aho_Girl">DanMachi()</a></li>
+  <li><a href = "https://myanimelist.net/anime/34881/Aho_Girl">Danshi Koukousei no Nixhijou</a></li>
+  <li><a href = "https://myanimelist.net/anime/34881/Aho_Girl">FLCL</a></li>
   <li><a href = "https://myanimelist.net/anime/34881/Aho_Girl">Gakusen Toshi Asterisk</a></li>
   <li><a href = "https://myanimelist.net/anime/34881/Aho_Girl">Gamers!</a></li>
-  <li><a href = "https://myanimelist.net/anime/34881/Aho_Girl">Danshi Koukousei no Nixhijou</a></li>
   <li><a href = "https://myanimelist.net/anime/34881/Aho_Girl">Grand Blue</a></li>
   <li><a href = "https://myanimelist.net/anime/34881/Aho_Girl">Grisaia no Kajitsu</a></li>
+  <li><a href = "https://myanimelist.net/anime/34881/Aho_Girl">Haikyuu!!</a></li>
   <li><a href = "https://myanimelist.net/anime/34881/Aho_Girl">Handa-kun</a></li>
   <li><a href = "https://myanimelist.net/anime/34881/Aho_Girl">HagureYuusha no Aesthetica</a></li>
   <li><a href = "https://myanimelist.net/anime/34881/Aho_Girl">Hataraku Maou-sama</a></li>
@@ -50,9 +53,11 @@
   <li><a href = "https://myanimelist.net/anime/34881/Aho_Girl">Hyouka</a></li>
   <li><a href = "https://myanimelist.net/anime/34881/Aho_Girl">Ichiban Ushiro no Daimo</a></li>
   <li><a href = "https://myanimelist.net/anime/34881/Aho_Girl">Inou-Battle wa Nichijou-kei no Naka de</a></li>
+  <li><a href = "https://myanimelist.net/anime/34881/Aho_Girl">K</a></li>
   <li><a href = "https://myanimelist.net/anime/34881/Aho_Girl">Kakegurui</a></li>
   <li><a href = "https://myanimelist.net/anime/34881/Aho_Girl">Kami nomi zo Shiru Sekai</a></li>
   <li><a href = "https://myanimelist.net/anime/34881/Aho_Girl">Kekkai Sensen</a></li>
+  <li><a href = "https://myanimelist.net/anime/34881/Aho_Girl">Kiznaiver</a></li>
   <li><a href = "https://myanimelist.net/anime/34881/Aho_Girl">KonoSuba</a></li>
   <li><a href = "https://myanimelist.net/anime/34881/Aho_Girl">Kore wa Zombie Desu ga</a></li>
   <li><a href = "https://myanimelist.net/anime/34881/Aho_Girl">Kyoukai no kanata</a></li>
@@ -80,6 +85,7 @@
   <li><a href = "https://myanimelist.net/anime/34881/Aho_Girl">Sankarea</a></li>
   <li><a href = "https://myanimelist.net/anime/34881/Aho_Girl">Servant * Service</a></li>
   <li><a href = "https://myanimelist.net/anime/34881/Aho_Girl">Shimoneta</a></li>
+  <li><a href = "https://myanimelist.net/anime/34881/Aho_Girl">Seto no Hanayome</a></li>
   <li><a href = "https://myanimelist.net/anime/34881/Aho_Girl">Shingeki no Kyoujin</a></li>
   <li><a href = "https://myanimelist.net/anime/34881/Aho_Girl">Sora no Otoshimono</a></li>
   <li><a href = "https://myanimelist.net/anime/34881/Aho_Girl">Taimadou Gakuen 35 shiken Shoutai</a></li>
@@ -90,5 +96,6 @@
   <li><a href = "https://myanimelist.net/anime/34881/Aho_Girl">UQ Holder!</a></li>
   <li><a href = "https://myanimelist.net/anime/34881/Aho_Girl">Oregairu</a></li>
   <li><a href = "https://myanimelist.net/anime/34881/Aho_Girl">Yamada-kun to 7-nin no Majo</a></li>
-  <li><a href = "https://myanimelist.net/anime/34881/Aho_Girl">Classroom of the Elite</a></li>
+  <li><a href = "https://myanimelist.net/anime/34881/Aho_Girl">Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e(Classroom of the Elite)</a></li>
+  <li><a href = "https://myanimelist.net/anime/34881/Aho_Girl">Witch Craft Works</a></li>
 </ol>
