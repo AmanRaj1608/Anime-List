@@ -2,7 +2,9 @@
 
 **Hi! I am _Aman Raj_. This is my Anime List.**
 
-**My favorite Anime genre - Comedy, Psychological, Shounen, Romance, Mystery, Sci-Fi, Super Power,**
+Anime character that resembles me - Hachiman Hikigaya
+
+My favorite Anime genre - Comedy, Psychological, Shounen, Romance, Mystery, Sci-Fi, Super Power.
 <br><br>
 ## Below follows the list of my ongoing animes
 <ol>
