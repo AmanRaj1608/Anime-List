@@ -12,8 +12,6 @@ My favorite Anime genre - Comedy, Psychological, Shounen, Romance, Mystery, Sci-
   <li><a href = "https://myanimelist.net/anime/37520/Dororo">Dororo</a></li>
   <li><a href = "https://myanimelist.net/anime/37779/Yakusoku_no_Neverland">Yakusoku no Neverland</a></li>
   <li><a href = "https://myanimelist.net/anime/35790/Tate_no_Yuusha_no_Nariagari">Tate no Yuusha no Nariagari</a></li>
-  <li><a href = "https://myanimelist.net/anime/37086/Kakegurui%C3%97%C3%97">Kakegurui××</a></li>
-  <li><a href = "https://myanimelist.net/anime/36633/Date_A_Live_%E2%85%A2">Date A Live Ⅲ</a></li>
 </ol>
 
 
