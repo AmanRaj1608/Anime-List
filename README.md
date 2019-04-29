@@ -9,7 +9,6 @@ My favorite Anime genre - Comedy, Psychological, Shounen, Romance, Mystery, Sci-
 ## Below follows the list of my ongoing animes
 <ol>
   <li><a href = "https://myanimelist.net/anime/37520/Dororo">Dororo</a></li>
-  <li><a href = "https://myanimelist.net/anime/37779/Yakusoku_no_Neverland">Yakusoku no Neverland</a></li>
   <li><a href = "https://myanimelist.net/anime/35790/Tate_no_Yuusha_no_Nariagari">Tate no Yuusha no Nariagari</a></li>
   <li><a href = "https://myanimelist.net/anime/29803/Overlord">Overlord</a></li>
 </ol>
@@ -99,6 +98,7 @@ My favorite Anime genre - Comedy, Psychological, Shounen, Romance, Mystery, Sci-
   <li><a href = "https://myanimelist.net/anime/34902/Tsurezure_Children">Tsurezue Children</a></li>
   <li><a href = "https://myanimelist.net/anime/33478/UQ_Holder__Mahou_Sensei_Negima_2">UQ Holder!</a></li>
   <li><a href = "https://myanimelist.net/anime/14813/Yahari_Ore_no_Seishun_Love_Comedy_wa_Machigatteiru">Oregairu</a></li>
+  <li><a href = "https://myanimelist.net/anime/37779/Yakusoku_no_Neverland">Yakusoku no Neverland</a></li>
   <li><a href = "https://myanimelist.net/anime/28677/Yamada-kun_to_7-nin_no_Majo">Yamada-kun to 7-nin no Majo</a></li>
   <li><a href = "https://myanimelist.net/anime/35507/Youkoso_Jitsuryoku_Shijou_Shugi_no_Kyoushitsu_e">Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e(Classroom of the Elite)</a></li>
   <li><a href = "https://myanimelist.net/anime/21085/Witch_Craft_Works">Witch Craft Works</a></li>
