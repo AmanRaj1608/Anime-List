@@ -8,6 +8,9 @@ My favorite Anime genre - Comedy, Psychological, Shounen, Romance, Mystery, Sci-
 <br><br>
 ## Below follows the list of my ongoing animes
 <ol>
+  <li><a href = "https://myanimelist.net/anime/34134/One_Punch_Man_2nd_Season">One Punch Man 2</a></li>
+  <li><a href = "Bungou Stray Dogs 3rd Season">Bungou Stray Dogs 3rd Season</a></li>
+  <li><a href = "https://myanimelist.net/anime/36407/Kenja_no_Mago">Magi's Grandson</a></li>
   <li><a href = "https://myanimelist.net/anime/37520/Dororo">Dororo</a></li>
   <li><a href = "https://myanimelist.net/anime/35790/Tate_no_Yuusha_no_Nariagari">Tate no Yuusha no Nariagari</a></li>
   <li><a href = "https://myanimelist.net/anime/29803/Overlord">Overlord</a></li>
