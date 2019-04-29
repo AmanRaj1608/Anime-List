@@ -8,7 +8,6 @@ My favorite Anime genre - Comedy, Psychological, Shounen, Romance, Mystery, Sci-
 <br><br>
 ## Below follows the list of my ongoing animes
 <ol>
-  <li><a href = "https://myanimelist.net/anime/37510/Mob_Psycho_100_II">Mob Psycho 100 II</a></li>
   <li><a href = "https://myanimelist.net/anime/37520/Dororo">Dororo</a></li>
   <li><a href = "https://myanimelist.net/anime/37779/Yakusoku_no_Neverland">Yakusoku no Neverland</a></li>
   <li><a href = "https://myanimelist.net/anime/35790/Tate_no_Yuusha_no_Nariagari">Tate no Yuusha no Nariagari</a></li>
@@ -69,6 +68,7 @@ My favorite Anime genre - Comedy, Psychological, Shounen, Romance, Mystery, Sci-
   <li><a href = "https://myanimelist.net/anime/33487/Masamune-kun_no_Revenge">Masamune-kon no Revenge</a></li>
   <li><a href = "https://myanimelist.net/anime/10110/Mayo_Chiki">Mayo chiki!</a></li>
   <li><a href = "https://myanimelist.net/anime/32182/Mob_Psycho_100">Mob Psycho 100</a></li>
+  <li><a href = "https://myanimelist.net/anime/37510/Mob_Psycho_100_II">Mob Psycho 100 II</a></li>
   <li><a href = "https://myanimelist.net/anime/15315/Mondaiji-tachi_ga_Isekai_kara_Kuru_Sou_Desu_yo">Mondaiji-tachi ga Isekai kra kuru Sou desu you</a></li>
   <li><a href = "https://myanimelist.net/anime/31442/Musaigen_no_Phantom_World">Musaigen no Phantom World</a></li>
   <li><a href = "https://myanimelist.net/anime/23755/Nanatsu_no_Taizai">Nanatsu no Taizai</a></li>
