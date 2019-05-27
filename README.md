@@ -84,6 +84,7 @@ My favorite Anime genre - Comedy, Psychological, Shounen, Romance, Mystery, Sci-
   <li><a href = "https://myanimelist.net/anime/26243/Owari_no_Seraph">Owari no Seraph</a></li>
   <li><a href = "https://myanimelist.net/anime/30240/Prison_School">Prison School</a></li>
   <li><a href = "https://myanimelist.net/anime/30296/Rakudai_Kishi_no_Cavalry">Rakudai Kishi no Cavalry</a></li>
+  <li><a href = "https://myanimelist.net/anime/30296/Rakudai_Kishi_no_Cavalry">Re: Zero</a></li>
   <li><a href = "https://myanimelist.net/anime/32951/Rokudenashi_Majutsu_Koushi_to_Akashic_Records">Rokudenashi Majutsu Koushi to Akashic Records</a></li>
   <li><a href = "https://myanimelist.net/anime/21561/Ryuugajou_Nanana_no_Maizoukin">Ryuugajou Nanana no Maizoukin</a></li>
   <li><a href = "https://myanimelist.net/anime/23277/Saenai_Heroine_no_Sodatekata">Saenai Heroine no Sodatekata</a></li>
