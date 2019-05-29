@@ -59,6 +59,7 @@ My favorite Anime genre - Comedy, Psychological, Shounen, Romance, Mystery, Sci-
   <li><a href = "https://myanimelist.net/anime/7088/Ichiban_Ushiro_no_Daimaou">Ichiban Ushiro no Daimo</a></li>
   <li><a href = "https://myanimelist.net/anime/25159/Inou-Battle_wa_Nichijou-kei_no_Naka_de">Inou-Battle wa Nichijou-kei no Naka de</a></li>
   <li><a href = "https://myanimelist.net/anime/14467/K">K</a></li>
+  <li><a href = "https://myanimelist.net/anime/14467/K">Kaguya-sama: Love Is War</a></li>
   <li><a href = "https://myanimelist.net/anime/34933/Kakegurui">Kakegurui</a></li>
   <li><a href = "https://myanimelist.net/anime/8525/Kami_nomi_zo_Shiru_Sekai">Kami nomi zo Shiru Sekai</a></li>
   <li><a href = "https://myanimelist.net/anime/24439/Kekkai_Sensen">Kekkai Sensen</a></li>
