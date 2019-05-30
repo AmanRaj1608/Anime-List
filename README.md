@@ -12,7 +12,6 @@ My favorite Anime genre - Comedy, Psychological, Shounen, Romance, Mystery, Sci-
   <li><a href = "Bungou Stray Dogs 3rd Season">Bungou Stray Dogs 3rd Season</a></li>
   <li><a href = "https://myanimelist.net/anime/36407/Kenja_no_Mago">Magi's Grandson</a></li>
   <li><a href = "https://myanimelist.net/anime/37520/Dororo">Dororo</a></li>
-  <li><a href = "https://myanimelist.net/anime/35790/Tate_no_Yuusha_no_Nariagari">Tate no Yuusha no Nariagari</a></li>
   <li><a href = "https://myanimelist.net/anime/29803/Overlord">Overlord</a></li>
 </ol>
 
@@ -97,6 +96,7 @@ My favorite Anime genre - Comedy, Psychological, Shounen, Romance, Mystery, Sci-
   <li><a href = "https://myanimelist.net/anime/16498/Shingeki_no_Kyojin">Shingeki no Kyoujin</a></li>
   <li><a href = "https://myanimelist.net/anime/5958/Sora_no_Otoshimono">Sora no Otoshimono</a></li>
   <li><a href = "https://myanimelist.net/anime/24133/Taimadou_Gakuen_35_Shiken_Shoutai">Taimadou Gakuen 35 shiken Shoutai</a></li>
+  <li><a href = "https://myanimelist.net/anime/35790/Tate_no_Yuusha_no_Nariagari">Tate no Yuusha no Nariagari</a></li>
   <li><a href = "https://myanimelist.net/anime/22319/Tokyo_Ghoul">Tokyo Ghoul</a></li>
   <li><a href = "https://myanimelist.net/anime/14227/Tonari_no_Kaibutsu-kun">Tonari no Kaibutsu-kun</a></li>
   <li><a href = "https://myanimelist.net/anime/25157/Trinity_Seven">Trinity Seven</a></li>
