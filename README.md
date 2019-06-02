@@ -28,6 +28,7 @@ My favorite Anime genre - Comedy, Psychological, Shounen, Romance, Mystery, Sci-
   <li><a href = "https://myanimelist.net/anime/31964/Boku_no_Hero_Academia">Boku no Hero Academia</a></li>
   <li><a href = "https://myanimelist.net/anime/10719/Boku_wa_Tomodachi_ga_Sukunai">Boku wa Tomodachi ga sakunai</a></li>
   <li><a href = "https://myanimelist.net/anime/21405/Bokura_wa_Minna_Kawai-sou">Bokura wa Minna Kawai-sou</a></li>
+  <li><a href = "https://myanimelist.net/anime.php?id=38186">Bokutachi wa Benkyou ga Dekinai</a></li>
   <li><a href = "https://myanimelist.net/anime/31478/Bungou_Stray_Dogs">Bongou Stray Dogs</a></li>
   <li><a href = "https://myanimelist.net/anime/33475/Busou_Shoujo_Machiavellianism">Busou Shoujo Machiavellianism</a></li>
   <li><a href = "https://myanimelist.net/anime/12293/Campione__Matsurowanu_Kamigami_to_Kamigoroshi_no_Maou">Capione !</a></li>
