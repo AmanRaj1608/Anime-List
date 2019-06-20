@@ -109,4 +109,5 @@ My favorite Anime genre - Comedy, Psychological, Shounen, Romance, Mystery, Sci-
   <li><a href = "https://myanimelist.net/anime/28677/Yamada-kun_to_7-nin_no_Majo">Yamada-kun to 7-nin no Majo</a></li>
   <li><a href = "https://myanimelist.net/anime/35507/Youkoso_Jitsuryoku_Shijou_Shugi_no_Kyoushitsu_e">Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e(Classroom of the Elite)</a></li>
   <li><a href = "https://myanimelist.net/anime/21085/Witch_Craft_Works">Witch Craft Works</a></li>
+  <li><a href = "https://myanimelist.net/anime.php?id=23283">Zankyou no Terror</a></li>
 </ol>
