@@ -4,9 +4,9 @@
 
 Anime character that resembles me - Hachiman Hikigaya
 
-My favorite Anime genre - Comedy, Psychological, Shounen, Romance, Mystery, Sci-Fi, Super Power.
+My favorite Anime genres - Comedy, Psychological, Shounen, Romance, Mystery, Sci-Fi, Super Power.
 <br><br>
-## Below follows the list of my ongoing animes
+## Here is the list of the animes I am currently watching
 <ol>
   <li><a href = "https://myanimelist.net/anime/34134/One_Punch_Man_2nd_Season">One Punch Man 2</a></li>
   <li><a href = "Bungou Stray Dogs 3rd Season">Bungou Stray Dogs 3rd Season</a></li>
@@ -16,7 +16,7 @@ My favorite Anime genre - Comedy, Psychological, Shounen, Romance, Mystery, Sci-
 </ol>
 
 
-## Below follows the list of my completed animes
+## Here's the list of the animes I have completed
 <ol>
   <li><a href = "https://myanimelist.net/anime.php?id=38101">5-toubun no Hanayome</a></li>
   <li><a href = "https://myanimelist.net/anime/34881/Aho_Girl">Aho Girl</a></li>
