@@ -46,6 +46,7 @@ My favorite Anime genres - Comedy, Psychological, Shounen, Romance, Mystery, Sci
   <li><a href = "https://myanimelist.net/anime/227/FLCL">FLCL</a></li>
   <li><a href = "https://myanimelist.net/anime/30544/Gakusen_Toshi_Asterisk">Gakusen Toshi Asterisk</a></li>
   <li><a href = "https://myanimelist.net/anime/34280/Gamers">Gamers!</a></li>
+  <li><a href = "https://myanimelist.net/anime.php?id=23289">Gekkan Shoujo Nozaki-kun</a></li>
   <li><a href = "https://myanimelist.net/anime/37105/Grand_Blue">Grand Blue</a></li>
   <li><a href = "https://myanimelist.net/anime/29095/Grisaia_no_Rakuen">Grisaia no Kajitsu</a></li>
   <li><a href = "https://myanimelist.net/anime/20583/Haikyuu">Haikyuu!!</a></li>
